@@ -12,3 +12,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/alyandradev-sys.svg)](https://ghcommits.com)
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/alyandradev-sys.svg)](https://ghcommits.com/u/alyandradev-sys)
