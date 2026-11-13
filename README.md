@@ -10,3 +10,5 @@
 [![](https://komarev.com/ghpvc/?username=alyandradev-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/alyandradev-sys.svg)](https://ghcommits.com)
