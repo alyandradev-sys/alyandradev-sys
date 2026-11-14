@@ -14,3 +14,5 @@
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/alyandradev-sys.svg)](https://ghcommits.com)
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/alyandradev-sys.svg)](https://ghcommits.com/u/alyandradev-sys)
+
+https://ghcommits.com/api/badge/alyandradev-sys.svg
